@@ -1,7 +1,7 @@
 {
-  "short_name": "notes",
-  "name": "notes",
-  "description" : "An offline-capable notes app, using localStorage and ServiceWorker",
+  "short_name": "Notas",
+  "name": "Notas",
+  "description" : "Um aplicativo de anotações com capacidade offline, usando localStorage e Service Worker",
   "display": "standalone",
   "orientation": "portrait",
   "start_url": "index.html",

@@ -1,2 +1,2 @@
 # notas
-Bloco de Notas simples, que funciona no modo Offline, utilizando as técnicas de Service Worker e Progressive Web App - PWA.
+Bloco de Notas simples, que funciona Offline, utilizando as técnicas de Service Worker e Progressive Web App (PWA).

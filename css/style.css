@@ -11,7 +11,7 @@ body {
 
 body {
   height: 100vh;
-  background: linear-gradient(to left, #B24592 , #F15F79);
+  background: linear-gradient(to left, #7FFFD4 , #458B74);
 }
 
 @media screen and (max-width: 500px) {
